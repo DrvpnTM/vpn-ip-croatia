@@ -1,18 +1,17 @@
-# VPN IP Croatia — Dr VPN
+# VPN IP Croatia — Fast, Secure VPN for Croatia
 
-**VPN IP Croatia** is a fast, secure and free VPN for Android. Get a **Croatia IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Croatia** is a free, open-source, ad-free VPN app for Android, built for users in Croatia. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Croatia (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_hr_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-croatia/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Croatia IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Croatia, Croatia VPN, VPN IP Croatia, Croatia IP address, free VPN Croatia, buy VPN Croatia, fast VPN Croatia, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Croatia, free VPN Croatia, fast VPN, VPN IP Croatia, Android VPN, unblock websites Croatia.</sub>
